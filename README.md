@@ -184,6 +184,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 
 
 ## Bash and Shell scripting  
@@ -512,8 +513,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 
 ## Watch others code
-- [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
-- [Twitch.tv](https://www.twitch.tv/communities/programming) : The programming community of twitch.
+- [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building application, websites, games, etc.
+- [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 
 ## What should a programmer know
@@ -582,9 +583,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
+- [JSBin](https://jsbin.com/) : Front end playground, Output is not framed, so it allow you to share those snippet that will break inside iframe.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set period of time which can be shared instantly.
 - [C9.io](https://c9.io) : Your development environment, in the cloud
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as code editor 
 
 
 ## Blogs of Developers
